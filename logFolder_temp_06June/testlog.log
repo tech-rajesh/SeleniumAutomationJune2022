@@ -1,0 +1,11 @@
+2022-06-21 14:57:51,725 - Steria_Org_Automation_Logger -INFO - chrome browser launched
+2022-06-21 14:58:54,700 - Steria_Org_Automation_Logger -INFO - chrome browser launched
+2022-06-21 14:58:57,912 - Steria_Org_Automation_Logger -INFO - HRM Login application opened - https://opensource-demo.orangehrmlive.com/
+2022-06-21 14:58:57,974 - Steria_Org_Automation_Logger -INFO - -------Test execution started----------
+2022-06-21 14:58:57,975 - Steria_Org_Automation_Logger -INFO - enter userName: Admin
+2022-06-21 14:58:58,123 - Steria_Org_Automation_Logger -INFO - enter password: admin123
+2022-06-21 14:58:58,236 - Steria_Org_Automation_Logger -INFO - click on login button
+2022-06-21 14:59:12,813 - Steria_Org_Automation_Logger -INFO - verify Dashboard after login
+2022-06-21 14:59:13,219 - Steria_Org_Automation_Logger -INFO - verify label TextDashboard
+2022-06-21 14:59:17,345 - Steria_Org_Automation_Logger -INFO - logout from application
+2022-06-21 14:59:18,668 - Steria_Org_Automation_Logger -INFO - Chrome browser closed

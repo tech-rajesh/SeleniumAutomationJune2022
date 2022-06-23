@@ -1,0 +1,59 @@
+2022-06-21 14:57:51,725 [main] INFO Steria_Org_Automation_Logger - chrome browser launched
+2022-06-21 14:58:54,700 [main] INFO Steria_Org_Automation_Logger - chrome browser launched
+2022-06-21 14:58:57,912 [main] INFO Steria_Org_Automation_Logger - HRM Login application opened - https://opensource-demo.orangehrmlive.com/
+2022-06-21 14:58:57,974 [main] INFO Steria_Org_Automation_Logger - -------Test execution started----------
+2022-06-21 14:58:57,975 [main] INFO Steria_Org_Automation_Logger - enter userName: Admin
+2022-06-21 14:58:58,123 [main] INFO Steria_Org_Automation_Logger - enter password: admin123
+2022-06-21 14:58:58,236 [main] INFO Steria_Org_Automation_Logger - click on login button
+2022-06-21 14:59:12,813 [main] INFO Steria_Org_Automation_Logger - verify Dashboard after login
+2022-06-21 14:59:13,219 [main] INFO Steria_Org_Automation_Logger - verify label TextDashboard
+2022-06-21 14:59:17,345 [main] INFO Steria_Org_Automation_Logger - logout from application
+2022-06-21 14:59:18,668 [main] INFO Steria_Org_Automation_Logger - Chrome browser closed
+2022-06-21 16:37:02,351 [main] INFO Org_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-06-21 16:37:05,404 [main] INFO Org_Automation_Logger - Orange HRM application Launch Sucessfully in chrome browser
+2022-06-21 16:37:05,616 [main] INFO Org_Automation_Logger - enter user Name - Admin
+2022-06-21 16:37:05,785 [main] INFO Org_Automation_Logger - enter password  - admin123
+2022-06-21 16:37:05,872 [main] INFO Org_Automation_Logger - click on Login button
+2022-06-21 16:37:10,128 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:37:10,170 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:37:11,030 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:37:11,036 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:37:11,059 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:37:11,151 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:37:11,156 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:37:11,184 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:37:11,894 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:37:17,106 [main] INFO Org_Automation_Logger - Closing chrome browser
+2022-06-21 16:38:15,075 [main] INFO Org_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-06-21 16:38:18,238 [main] INFO Org_Automation_Logger - Orange HRM application Launch Sucessfully in chrome browser
+2022-06-21 16:38:18,461 [main] INFO Org_Automation_Logger - enter user Name - Admin
+2022-06-21 16:38:18,584 [main] INFO Org_Automation_Logger - enter password  - admin123
+2022-06-21 16:38:18,696 [main] INFO Org_Automation_Logger - click on Login button
+2022-06-21 16:38:22,096 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:38:23,443 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:38:26,391 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:38:26,398 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:38:26,416 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:38:28,510 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:38:28,512 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:38:28,535 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:38:31,202 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:38:31,205 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:38:31,245 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:38:33,333 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:38:38,587 [main] INFO Org_Automation_Logger - Closing chrome browser
+2022-06-21 16:44:42,384 [main] INFO Org_Automation_Logger - Chrome Browser Launch Sucessfully
+2022-06-21 16:44:45,652 [main] INFO Org_Automation_Logger - Orange HRM application Launch Sucessfully in chrome browser
+2022-06-21 16:44:45,875 [main] INFO Org_Automation_Logger - enter user Name - Admin
+2022-06-21 16:44:46,036 [main] INFO Org_Automation_Logger - enter password  - admin123
+2022-06-21 16:44:46,127 [main] INFO Org_Automation_Logger - click on Login button
+2022-06-21 16:44:51,111 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:44:51,160 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:44:54,143 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:44:54,150 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:44:54,171 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:44:56,265 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:44:56,269 [main] INFO Org_Automation_Logger - Validate Dashboard after login
+2022-06-21 16:44:56,293 [main] INFO Org_Automation_Logger - click on Welcome
+2022-06-21 16:44:58,966 [main] INFO Org_Automation_Logger - click on Logout
+2022-06-21 16:45:04,240 [main] INFO Org_Automation_Logger - Closing chrome browser
