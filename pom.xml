@@ -30,6 +30,7 @@
 
 						<suiteXmlFiles>
 							<suiteXmlFile>testng_POM.xml</suiteXmlFile>
+							<suiteXmlFile>testng_parallel.xml</suiteXmlFile>
 							<!-- <suiteXmlFile>testng_parallel.xml</suiteXmlFile> -->
 							<!-- <suiteXmlFile>testng_DDT.xml</suiteXmlFile> -->
 
